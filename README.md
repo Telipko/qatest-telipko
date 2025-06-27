@@ -1,2 +1,2 @@
 # qatest
-test repo
+test repository 
